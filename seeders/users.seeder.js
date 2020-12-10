@@ -21,8 +21,8 @@ const data = [
     accessLevel: "revoked",
   },
   {
-    email: "htcpcp.dcia@gmail.com",
-    password: "root1",
+    email: process.env.ROOT_EMAIL,
+    password: process.env.ROOT_PWD,
     accessLevel: "root",
   },
   {
