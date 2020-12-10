@@ -4,6 +4,10 @@
 application developed for coursework at the University of Arkansas at Little
 Rock that tracks student outcomes across semesters and instructors.
 
+This application is deployed to Heroku: https://dcia-demo.herokuapp.com/
+
+**To Demo**: You are more than welcome to submit a registration request (that I will approve). If you're not comfortable registering with your email, the demo credentials are accessible in [the Users seeder file](seeders/users.seeder.js).
+
 ## Screenshots
 
 ### Sign In / Register
